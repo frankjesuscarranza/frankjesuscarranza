@@ -19,9 +19,9 @@
   <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
 </a>
 </p>
-
-<p align="center">
    <h2 align="center">PROJECTS</h2>
+<p align="center">
+
 🥫 STOCKSTACKER (https://franklincarranza.com/)
 <br /><br />
 <a href='https://franklincarranza.com' target='_blank'>
