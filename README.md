@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://franklincarranza.com/ProfilePic.jpg" />
    <h3 align="center">¡Welcome 🖖🏽! I´m Franklin Carranza 👨🏻‍💻</h3> 
-   📬 frankjesusint@gmail.com
+   <p align="center">📬 frankjesusint@gmail.com</p>
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/franklin-carranza" target="blank">
