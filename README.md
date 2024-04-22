@@ -7,6 +7,9 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Franklin´s Linkedin" height="56px" width="56px" target="blank" />
   </a>
 </p>
+<p>
+   📬 frankjesusint@gmail.com
+</p>
 
 
 
