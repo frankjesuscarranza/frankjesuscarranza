@@ -19,9 +19,10 @@
   <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
 </a>
 </p>
+
 <p align="center">
    <h2 align="center">PROJECTS</h2>
-🤓 Take a look at my [Web Page](https://franklincarranza.com/)
+🥫 STOCKSTACKER (https://franklincarranza.com/)
 <br /><br />
 <a href='https://franklincarranza.com' target='_blank'>
   <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
