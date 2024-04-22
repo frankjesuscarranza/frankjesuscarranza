@@ -4,10 +4,16 @@
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/franklin-carranza" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Franklin´s Linkedin" height="56px" width="56px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Franklin´s Linkedin" height="56px" width="56px" target="blank" />
   </a>
 </p>
-- 🌱 I’m currently learning ...
+
+<p align="center" >
+### 🤓 Take a look at my [Web Page](https://franklincarranza.com/)
+<a href='https://franklincarranza.com' target='_blank'>
+  <img width='30%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
+</a>
+</p>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
