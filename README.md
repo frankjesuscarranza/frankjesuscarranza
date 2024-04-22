@@ -4,7 +4,7 @@
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/franklin-carranza" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Franklin´s Linkedin" height="28px" width="56px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Franklin´s Linkedin" height="56px" width="56px" />
   </a>
 </p>
 - 🌱 I’m currently learning ...
