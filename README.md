@@ -20,7 +20,7 @@
 </a>
 </p>
 <p align="center">
-   <h2>PROJECTS</h2>
+   <h2 align="center">PROJECTS</h2>
 🤓 Take a look at my [Web Page](https://franklincarranza.com/)
 <br /><br />
 <a href='https://franklincarranza.com' target='_blank'>
