@@ -9,7 +9,7 @@
 </p>
 
 
-### 🤓 Take a look at my [Web Page](https://franklincarranza.com/)
+<center>### 🤓 Take a look at my [Web Page](https://franklincarranza.com/)</center>
 <p align="center">
 <a href='https://franklincarranza.com' target='_blank'>
   <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
