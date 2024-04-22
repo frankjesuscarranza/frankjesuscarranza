@@ -8,10 +8,11 @@
   </a>
 </p>
 
-<p align="center" >
+
 ### 🤓 Take a look at my [Web Page](https://franklincarranza.com/)
+<p align="center">
 <a href='https://franklincarranza.com' target='_blank'>
-  <img width='30%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
+  <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
 </a>
 </p>
 - 💞️ I’m looking to collaborate on ...
