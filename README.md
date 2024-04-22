@@ -12,7 +12,7 @@
 
 <p align="center">
 🤓 Take a look at my [Web Page](https://franklincarranza.com/)
-<br/>
+<br /><br />
 <a href='https://franklincarranza.com' target='_blank'>
   <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
 </a>
