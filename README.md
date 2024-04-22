@@ -25,7 +25,7 @@
 <p align="center">🥫 STOCKSTACKER (https://franklincarranza.com/)</p>
 <br /><br />
 <a href='https://franklincarranza.com' target='_blank'>
-  <img width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
+  <img align="center" width='80%' src='https://franklincarranza.com/Thumbnail.png' alt='My Web Page' />
 </a>
 </p>
 
